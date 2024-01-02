@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _ato1 - Convert a string to an interger
+ * _atoi - Convert a string to an interger
  * @s: The pointer to convert
  * Return: A integer
  */
@@ -29,7 +29,6 @@ int _atoi(char *s)
 			break;
 		}
 		c++;
-		{
 		ni *= (ni);
-	}}
+	}
 }
