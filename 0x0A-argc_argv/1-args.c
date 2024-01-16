@@ -8,6 +8,7 @@
  *
  * Return: always 0 (Success)
  */
+
 int main(int argc, char *argv[])
 {
 	(void) argv;
@@ -15,4 +16,3 @@ int main(int argc, char *argv[])
 
 		return (0);
 }
-
